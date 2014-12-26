@@ -4,7 +4,7 @@
   "AppIdentifier": "com.telerik.sampleflashlight",
   "ProjectName": "sample-flashlight",
   "IsRunnable": "true",
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "AndroidPermissions": [
     "android.permission.CAMERA",
     "android.permission.READ_PHONE_STATE"
@@ -40,5 +40,6 @@
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
   ],
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1"
 }
